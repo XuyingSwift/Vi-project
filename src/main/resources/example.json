@@ -1,0 +1,46 @@
+[
+  {
+    "0":
+    {
+      "File":"file1.java",
+      "Class":"com.ETransitionActionType",
+      "Method":"values",
+      "Annotation":"Not Found"
+    }
+  },
+  {
+    "1":
+    {
+      "File":"file2.java",
+      "Class":"com.ETransitionParams",
+      "Method":"values",
+      "Annotation":"Not Found"
+    }
+  },
+  {
+    "2":
+    {
+      "File":"file3.java",
+      "Class":"com.phloc.commons.id.IHasID",
+      "Method":"getID",
+      "Annotation":"Not Found"
+    }
+  },
+  {
+    "4":
+    {
+      "File":"file3.java",
+      "Class":"com.ExecuteTransitionActionHandler",
+      "Method":"createBadRequestResponse",
+      "Annotation":"Not Found"
+    }
+  },
+  {
+    "5":
+    {
+      "File":"file3.java",
+      "Class":"com.ExecuteTransitionActionHandler",
+      "Method":"extractParametersFromAction",
+      "Annotation":"Not Found"
+    }
+  }]
